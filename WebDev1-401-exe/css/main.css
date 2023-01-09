@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+  display: none;
+}
+html body {
+  font-size: 1.5rem;
+  font-family: "Lato", sans-serif;
+  color: rgb(13, 13, 37);
+}
+html a {
+  color: rgb(13, 13, 37);
+  text-decoration: none;
+}
+
+h2 {
+  color: rgb(255, 136, 0);
+}
+
+h3 {
+  color: rgb(255, 136, 0);
+}
+
+footer {
+  text-align: center;
+  padding: 40px 20px;
+}
+
+/*# sourceMappingURL=main.css.map */
